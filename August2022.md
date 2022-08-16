@@ -2,14 +2,17 @@
 
 # OpenWorm updates August 2022
 
-## 2) OpenCollective as a new funding stream
+## 1) OpenCollective as a new funding stream
 
-Adding PayPal?
-Paid first OW student…
+We have added [OpenCollective](https://opencollective.com/openworm) as a new way to donate to OpenWorm.
 
-## 1) OpenWorm Studentships - first successful project completed
+See https://openworm.org/donate for more details. One of the first uses of these funds will be to support OpenWorm Studentships (see below).
 
-Tyson Wheelwright. Blender.. More to come…
+## 2) OpenWorm Studentships - first successful project completed
+
+Tyson Wheelwright. [Blender 2 NeuroML](https://github.com/openworm/Blender2NeuroML/) project.
+
+More Studentships to come…
 
 ## 3) OpenWorm simulation stack updates
 
