@@ -71,4 +71,5 @@ Dockerfile
 
 ## 7) Other announcements
 
+Poster at C elegans last year??
 More...
