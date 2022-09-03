@@ -60,8 +60,13 @@ https://github.com/openworm/WormsenseLab_ASH
 
 ## 5) DevoWorm updates
 
--> Bradly
+<p align="center"><img src="https://github.com/OREL-group/GSoC/blob/main/Media/DW.png" height="150"/></p>
 
+Over the past year, DevoWorm has been involved in a number of initiatives. DevoWorm hosted four [Google Summer of Code](https://summerofcode.withgoogle.com/) students in 2022: Karan Lohaan and Harikrishna Pillai worked on the Digital Microspheres project (a spherical platform for embryo data), while Jiahang Li and Wataru Kawakami worked on developing a Graph Neural Network pipeline for the DevoLearn platform.  
+
+DevoWorm also had a presence at [NetSci 2022](https://netsci2022.net/) (virtual conference hosted in Shanghai). Bradly Alicea presented on the group's Embodied Hypernetworks work in the main conference, as well as serving to represent the group at the Network Neuroscience satellite session as a presenter and participant.  
+
+Our [Weekly Meetings](https://www.youtube.com/playlist?list=PLJ8ZcBZeKeci2ACwfllCDFn_eZAXlbGQN) are a continuing success. We cover a number of technical topics and a wide variety of topical reviews spanning biophysics, developmental biology, computational analysis, and more. Join us on Mondays at 2pm UTC (1pm UTC in winter) to get involved.  
 
 ## 6) OpenWorm simulation stack updates
 
