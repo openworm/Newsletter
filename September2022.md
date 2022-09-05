@@ -1,6 +1,6 @@
 <p align="center"><img src="http://www.openworm.org/img/OpenWormLogo.png" alt="OpenWorm"/></p>
 
-# OpenWorm updates August 2022
+# OpenWorm updates September 2022
 
 [**OpenCollective as a new funding stream**](#1-opencollective-as-a-new-funding-stream)
 

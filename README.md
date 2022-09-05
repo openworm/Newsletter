@@ -4,4 +4,4 @@
 
 A repository providing a regular newsletter with OpenWorm updates.
 
-## **[August 2022](August2022.md)**
+## **[September 2022](September2022.md)**
