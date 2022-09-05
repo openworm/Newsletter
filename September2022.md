@@ -79,10 +79,12 @@ Our [weekly meetings](https://www.youtube.com/playlist?list=PLJ8ZcBZeKeci2ACwfll
 ## 6) OpenWorm simulation stack updates
 
 <p align="center"><img src="https://raw.githubusercontent.com/openworm/OpenWorm/master/img/worm-crawling.gif" alt="Worm Crawling" width="550"></p>
+<p align="center"><sup><i>Example movie generated when the Docker container containing the OpenWorm simulation stack runs for 5 seconds of simulated time.</i></sup></p>
 
-Dockerfile
+We have made a new release of the [Docker container](https://hub.docker.com/r/openworm/openworm) that pulls together the major components of our simulation stack and allows it to be run on your machine. It includes [Sibernetic](https://github.com/openworm/sibernetic), [c302](https://github.com/openworm/c302) and [owmeta](https://github.com/openworm/owmeta). See details [here](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart).
 
 ## 7) Other announcements
 
-Poster at C elegans last year??
-More...
+<p align="center"><kbd><a href="docs/OpenWormPoster_C_elegans_meeting_June_2021.pdf"><img src="img/OpenWormPoster2022.png" alt="OpenWormPoster2022" width="450"></a></kbd></p>
+
+A poster presenting the latest status of the OpenWorm project was presented at the [main global conference in the <i>C. elegans</i> field](https://genetics-gsa.org/celegans-2021/) in June 2021. Click on the image above to download the poster.
