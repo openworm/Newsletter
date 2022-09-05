@@ -33,8 +33,10 @@ The first person to complete an OpenWorm Studentship project has been **Tyson Wh
 
 <p align="center"><img src="https://github.com/openworm/Blender2NeuroML/raw/master/images/ADAL.png" height="300"/></p>
 <p align="center"><sup><i>Figure showing images of a single cell (<a href="https://www.wormatlas.org/neurons/Individual%20Neurons/ADAframeset.html">ADAL</a>) taken from the original
-<a href="https://github.com/openworm/Blender2NeuroML/blob/master/src/Data/Virtual_Worm_March_2011.blend">3D Blender file</a> on the left, and the corresponding image of the cell in
-<a href="https://docs.neuroml.org/Userdocs/NeuroMLv2.html">NeuroML 2</a> format on the right. See
+<a href="https://github.com/openworm/Blender2NeuroML/blob/master/src/Data/Virtual_Worm_March_2011.blend">3D Blender file</a> (from the
+<a href="http://caltech.wormbase.org/virtualworm">Virtual Worm Project</a>) on the left, and the corresponding image of the cell in
+<a href="https://docs.neuroml.org/Userdocs/NeuroMLv2.html">NeuroML 2</a> format on the right (which is being used in our
+<a href="https://github.com/openworm/c302">biophysical model of the worm nervous system</a>). See
 <a href="src/NeuroMLImages/README.md">here</a> for more examples.</i></sup></p>
 
 More Studentships will be offered to the community in late 2022.
@@ -42,13 +44,15 @@ More Studentships will be offered to the community in late 2022.
 
 ## 3) NeuroPAL
 
+The recent paper <a href="https://www.sciencedirect.com/science/article/pii/S0092867420316822">NeuroPAL: A Multicolor Atlas for Whole-Brain Neuronal Identification in <i>C. elegans</i></a> described a groundbreaking new technique to create a genetic strain of the worm where each neuron
+is labelled with a fluorescent marker of a specific color, allowing easy identification of neurons across experiments and animals.
+
+We have converted one of these datasets containing positions of cell bodies and the expressed NeuroPAL colors to NeuroML, to allow it to be used in OpenWorm models and associated applications.
 
 <p align="center"><kbd><img src="https://raw.githubusercontent.com/openworm/NeuroPAL/main/NeuroML2/Screenshot_Canonical.png" alt="NeuroPAL" width="550"></kbd></p>
 
-<p align="center"><i>The above image shows the canonical positions and colors <a href="https://www.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_Canonical.net.nml">visualised on Open Source Brain</a>.</i></p>
+<p align="center"><sup><i>The above image shows the canonical positions and colors of a NeuroPAL dataset which has been <a href="https://github.com/openworm/NeuroPAL/tree/main/NeuroML2">converted into NeuroML</a>, allowing it to be <a href="https://www.opensourcebrain.org/projects/neuropal/repository/revisions/main/show/NeuroML2?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252FNeuroPAL%252Fmain%252FNeuroML2%252FNeuroPAL_Canonical.net.nml">visualised on Open Source Brain</a>.</i></sup></p>
 
-https://github.com/openworm/NeuroPAL
-More 3D data:
 
 ## 4) Electrophysiological data from worm neurons
 
