@@ -82,7 +82,7 @@ Our [weekly meetings](https://www.youtube.com/playlist?list=PLJ8ZcBZeKeci2ACwfll
 <p align="center"><img src="https://raw.githubusercontent.com/openworm/OpenWorm/master/img/worm-crawling.gif" alt="Worm Crawling" width="550"></p>
 <p align="center"><sup><i>Example movie generated when the Docker container containing the OpenWorm simulation stack runs for 5 seconds of simulated time.</i></sup></p>
 
-We have made a new release of the [Docker container](https://hub.docker.com/r/openworm/openworm) that pulls together the major components of our simulation stack and allows it to be run on your machine. It includes [Sibernetic](https://github.com/openworm/sibernetic), [c302](https://github.com/openworm/c302) and [owmeta](https://github.com/openworm/owmeta). See details [here](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart).
+We have made a new release of the [Docker container](https://github.com/openworm/OpenWorm/blob/master/Dockerfile) that pulls together the major components of our simulation stack and allows it to be run on your machine. It includes [Sibernetic](https://github.com/openworm/sibernetic), [c302](https://github.com/openworm/c302) and [owmeta](https://github.com/openworm/owmeta). See details [here](https://github.com/openworm/OpenWorm/blob/master/README.md#quickstart).
 
 ## 7) Other announcements
 
